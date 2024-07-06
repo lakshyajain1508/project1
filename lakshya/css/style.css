@@ -1,0 +1,30 @@
+.outer_box{
+    height: 576px;
+    width: 576px;
+    border: solid black 1px;
+    background-color: grey;
+    margin:auto;
+}
+.row{
+    height: 70px;
+    width: 576px;
+    border: solid rgb(255, 247, 247) 1px;
+}
+.white{
+    height: 70px;
+    width: 70px;
+    border: solid black 1px;
+    background-color:white;
+    float:left;
+    font-size: 50px;
+    text-align: center;
+}
+.black{
+    height: 70px;
+    width: 70px;
+    border: solid black 1px;
+    background-color: rgb(138, 110, 110);
+    float:left;
+    font-size: 50px;
+    text-align: center;
+}
